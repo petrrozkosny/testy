@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
 petr rozkosny
+<<<<<<< HEAD
 =======
 petr
 jan
 >>>>>>> Stashed changes
+=======
+jan rozkosny
+>>>>>>> 2f3285a161e9cae4de297e262cab343e23c9aa7f
