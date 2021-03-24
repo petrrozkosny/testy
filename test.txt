@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 petr rozkosny
+=======
+petr
+jan
+>>>>>>> Stashed changes
